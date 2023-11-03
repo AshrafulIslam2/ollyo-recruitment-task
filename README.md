@@ -9,7 +9,7 @@ Responsive image gallery using React JS with the following features: reordering,
 
 ## react-hot-toast used for toast message 
 
-# Build drag and drop functionallity used for feature image and reordering .
+# Build drag and drop functionality used for feature image and reordering .
 
 
 ## Available Scripts
