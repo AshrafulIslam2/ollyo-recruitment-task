@@ -5,11 +5,11 @@ Responsive image gallery using React JS with the following features: reordering,
 
 ## Used  Tailwind CSS for Style 
 
-## Fully Resposive for all device 
+## Fully Responsive for all device 
 
 # react-hot-toast used for toast message 
 
-# Build drag and drop functionallity used for feature image and reordering .
+### Build drag and drop functionallity used for feature image and reordering .
 
 
 ## Available Scripts
